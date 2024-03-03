@@ -1,5 +1,5 @@
 cask "paperlib-beta" do
-  version "3.0.0-beta.9"
+  version "3.0.0-beta.10"
   sha256 :no_check
 
   arch arm: "arm", intel: "x86-64"
