@@ -1,4 +1,4 @@
-cask "paperlib-" do
+cask "paperlib" do
   version "3.0.0-beta.11"
   sha256 :no_check
 
